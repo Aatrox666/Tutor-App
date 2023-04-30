@@ -15,8 +15,8 @@
     <div class="row">
       <div class="col-md-8 col-lg-8 lh-base">
         <h1>Bienvenido a TutorApp</h1>
-        <p>Este es un sitio web de ejemplo creado con HTML, CSS y Bootstrap.</p>
-        <a href="#" class="btn btn-primary btn-lg mb-3">Aprende más</a>
+        <p>Ofrecemos recursos y tutores capacitados para ayudar a los estudiantes a alcanzar sus metas académicas. Nuestro objetivo es brindar apoyo y ayudar a los estudiantes a tener éxito en sus estudios. ¡Únete a nuestra comunidad de aprendizaje hoy mismo!</p>
+				<a href="index.php?op=acercade_acercade" class="btn btn-primary btn-lg mb-3">Aprende más</a>
       </div>
       <div class="col-md-4 col-lg-4">
         <img src="img/logo.png" alt="Imagen de ejemplo" class="img-fluid">
@@ -28,7 +28,7 @@
 	  <div class="container">
       <div class="col-12 p-2 text-center">
       <h2>¿Listo para comenzar?</h2>
-		  <a href="registro/registro.php" class="btn btn-primary btn-lg">Regístrate ahora</a>
+		  <a href="contenido/registro/registroEstudiante.php" class="btn btn-primary btn-lg">Regístrate ahora</a>
       </div>
 		</div>
 </section>

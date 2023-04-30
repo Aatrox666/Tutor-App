@@ -20,6 +20,7 @@
 	  <div class="row justify-content-center align-items-center" style="height:100vh;">
 		<!-- Crea una columna que ocupe 4/12 del ancho en pantallas grandes y todo el ancho en pantallas pequeñas -->
 		<div class="col-lg-4 col-md-6 col-sm-12">
+			<img src="favicon.PNG" alt="Imagen de ejemplo" class="img-fluid">
 		  <!-- Crea un formulario de inicio de sesión con Bootstrap -->
 		  <form class="form-signin">
 			<h1 class="h3 mb-3 font-weight-normal">Iniciar sesión</h1>
@@ -33,7 +34,7 @@
 			  </label>
 			</div>
 			<button class="btn btn-lg btn-primary btn-block" type="submit">Registrarse</button>
-			<p class="mt-3 text-center">¿No tienes una cuenta? <a href="#">Regístrate Aqui</a></p>
+			<p class="mt-3 text-center">¿No tienes una cuenta? <a href="registroEstudiante.php">Regístrate Aqui</a></p>
 
 		  </form>
 		</div>

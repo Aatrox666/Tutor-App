@@ -19,22 +19,22 @@
 <table id="my-table" class="table">
 	<thead>
 	  <tr>
-		<th>Nombre</th>
+		<th>Nombre de Foro</th>
 		<th>Categoria</th>
 	  </tr>
 	</thead>
 	<tbody>
 	  <tr>
-		<td>americo</td>
+		<td>¿Como sumo 2+2?</td>
 		<td>Matematicas</td>
 	  </tr>
 	  <tr>
-		<td>adrian</td>
-		<td>Biologia</td>
+		<td>¿Como se calcula el porcentaje de agua?</td>
+		<td>Quimica</td>
 	  </tr>
 	  <tr>
-		<td>David</td>
-		<td>Docente</td>
+		<td>¿Cual es el moraleja de la historai de Edipo?</td>
+		<td>Literatura</td>
 	  </tr>
 	</tbody>
   </table>
